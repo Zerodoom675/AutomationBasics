@@ -1,5 +1,4 @@
 package ru.netology;
-
 public class CashbackHackServiceTest {
     CashbackHackService service = new CashbackHackService();
 
